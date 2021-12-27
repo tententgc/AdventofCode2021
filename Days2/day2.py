@@ -15,6 +15,7 @@ print (f"Part 1: {horizontal * depth}")
 
 depth = 0
 horizontal = 0
+
 aim = 0
 
 for k, v in values:
